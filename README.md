@@ -2,11 +2,12 @@
 
 ## 🚀 关于我
 
-搞了几年图数据库的,相信图能链接所有人
+钓鱼佬一枚
 
 ## 💼 工作经历
+- **哈啰** | infra | ing
 
-- **小红书** | 数据库研发工程师 | 2023 - 至今
+- **小红书** | 数据库研发工程师 | 2023 - 2025
   - 负责图数据库核心功能开发和性能优化
   - 参与分布式存储系统架构设计
   
@@ -20,9 +21,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-
-### 技术关键词
-`分布式系统` `图数据库` `存储引擎` `查询优化` `性能调优` `并发控制` `数据一致性`
 
 ## 📊 GitHub 统计
 
@@ -49,7 +47,6 @@
 ## 📫 联系方式
 
 - 📧 Email: 通过 GitHub 联系
-- 💼 LinkedIn: 欢迎专业交流
 - 🌟 GitHub: 关注我的开源项目
 
 ---
